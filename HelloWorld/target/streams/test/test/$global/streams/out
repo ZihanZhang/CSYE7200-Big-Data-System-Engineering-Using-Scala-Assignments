@@ -1,0 +1,20 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(CSYE7200.HelloWorldSpec, org.scalatest.tools.Framework$$anon$1@30582005, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(edu.neu.coe.scala.random.RandomStateSpec, org.scalatest.tools.Framework$$anon$1@30582005, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(edu.neu.coe.scala.ingest2.FunctionSpec, org.scalatest.tools.Framework$$anon$1@30582005, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(edu.neu.coe.scala.ingest.MovieSpec, org.scalatest.tools.Framework$$anon$1@30582005, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(edu.neu.coe.scala.ingest2.MovieSpec, org.scalatest.tools.Framework$$anon$1@30582005, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(edu.neu.coe.scala.ingest.IngestSpec, org.scalatest.tools.Framework$$anon$1@30582005, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 2 seconds, 798 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 50[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 6, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 45, failed 5, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[31m*** 5 TESTS FAILED ***[0m[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	edu.neu.coe.scala.ingest2.FunctionSpec[0m
+[0m[[0mdebug[0m] [0m	edu.neu.coe.scala.random.RandomStateSpec[0m
+[0m[[0mdebug[0m] [0m	CSYE7200.HelloWorldSpec[0m
+[0m[[31merror[0m] [0mFailed tests:[0m
+[0m[[31merror[0m] [0m	edu.neu.coe.scala.ingest.MovieSpec[0m
+[0m[[31merror[0m] [0m	edu.neu.coe.scala.ingest.IngestSpec[0m
+[0m[[31merror[0m] [0m	edu.neu.coe.scala.ingest2.MovieSpec[0m
+[0m[[31merror[0m] [0m(test:[31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m

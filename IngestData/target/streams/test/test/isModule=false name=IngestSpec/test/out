@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mIngestSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mingest[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for Int[0m[0m
+[0m[[0minfo[0m] [0m[31m- should work for movie database *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  11 was not equal to 4 (IngestSpec.scala:37)[0m[0m

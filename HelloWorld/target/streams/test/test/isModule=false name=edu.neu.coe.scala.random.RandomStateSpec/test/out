@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0m[32mRandomStateSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mRandomState(0L)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should match case RandomState(4804307197456638271)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should match case RandomState(-1034601897293430941) on next[0m[0m
+[0m[[0minfo[0m] [0m[32m7th element of RandomState(0)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should match case RandomState(5082315122564986995L)[0m[0m
+[0m[[0minfo[0m] [0m[32mDouble stream[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have zero mean[0m[0m
+[0m[[0minfo[0m] [0m[32m0..1 stream[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have mean = 0.5[0m[0m
+[0m[[0minfo[0m] [0m[32mmap[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work with map of map[0m[0m
+[0m[[0minfo[0m] [0m[32mflatMap[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work[0m[0m
+[0m[[0minfo[0m] [0m[32mfor comprehension[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work[0m[0m

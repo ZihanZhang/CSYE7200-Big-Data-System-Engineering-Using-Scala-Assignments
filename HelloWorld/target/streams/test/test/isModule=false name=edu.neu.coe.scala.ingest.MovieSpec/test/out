@@ -1,0 +1,24 @@
+[0m[[0minfo[0m] [0m[32mMovieSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mName[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for String[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for Name[0m[0m
+[0m[[0minfo[0m] [0m[32mPrincipal[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for String, Int[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for List[String][0m[0m
+[0m[[0minfo[0m] [0m[32mRating[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for String, Int[0m[0m
+[0m[[0minfo[0m] [0m[31m- should work for PG-13 *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  PG-13 did not match the given pattern (MovieSpec.scala:68)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for R[0m[0m
+[0m[[0minfo[0m] [0m[32mFormat[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for Boolean, String, Double, Int[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for List[String][0m[0m
+[0m[[0minfo[0m] [0m[32mProduction[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for String, Int[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for List[String][0m[0m
+[0m[[0minfo[0m] [0m[32m- should define isKiwi properly[0m[0m
+[0m[[0minfo[0m] [0m[32mReviews[0m[0m
+[0m[[0minfo[0m] [0m[31m- should work for params *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  Reviews(8.14,42,PG-13,7,10,12,99) did not match the given pattern (MovieSpec.scala:117)[0m[0m
+[0m[[0minfo[0m] [0m[31m- should work for List[String] *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  Reviews(8.14,42,PG-13,7,10,12,99) did not match the given pattern (MovieSpec.scala:123)[0m[0m

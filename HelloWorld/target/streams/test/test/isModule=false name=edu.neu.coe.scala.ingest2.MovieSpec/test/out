@@ -1,0 +1,26 @@
+[0m[[0minfo[0m] [0m[32mMovieSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mName[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for String[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for Name[0m[0m
+[0m[[0minfo[0m] [0m[32mPrincipal[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for List[String][0m[0m
+[0m[[0minfo[0m] [0m[32mRating[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for String, Int[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for PG-13[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for R[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for PG-0-[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for PG-XX[0m[0m
+[0m[[0minfo[0m] [0m[32mFormat[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for Boolean, String, Double, Int[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for List[String][0m[0m
+[0m[[0minfo[0m] [0m[32mProduction[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for String, Int[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for List[String][0m[0m
+[0m[[0minfo[0m] [0m[32m- should define isKiwi properly[0m[0m
+[0m[[0minfo[0m] [0m[32mReviews[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for List[String][0m[0m
+[0m[[0minfo[0m] [0m[32mMovie.getMoviesFromCountry[0m[0m
+[0m[[0minfo[0m] [0m[31m- should work for the sample file *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  11 was not equal to 4 (MovieSpec.scala:141)[0m[0m
+[0m[[0minfo[0m] [0m[32mMovie.testSerializationAndDeserialization[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for the sample file[0m[0m

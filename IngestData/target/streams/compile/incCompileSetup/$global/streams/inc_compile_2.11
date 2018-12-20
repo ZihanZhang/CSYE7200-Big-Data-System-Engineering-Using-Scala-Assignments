@@ -1,0 +1,399 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+32 items
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Ingest$$anonfun$apply$1.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Ingest.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Ingestible.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Format$.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Format.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Movie$$anonfun$1$$anonfun$apply$1.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Movie$$anonfun$1$$anonfun$apply$2.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Movie$$anonfun$1.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Movie$$anonfun$2$$anonfun$apply$3.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Movie$$anonfun$2.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Movie$$anonfun$elements$1.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Movie$.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Movie$IngestibleMovie$$anonfun$fromString$1.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Movie$IngestibleMovie$.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Movie$IngestibleMovie$class.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Movie$IngestibleMovie.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Movie$delayedInit$body.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Movie.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Name$$anonfun$toString$1.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Name$$anonfun$toString$2.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Name$.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Name$Result$3.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Name$Result$4$.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Name.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Principal$.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Principal.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Production$.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Production.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Rating$.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Rating.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Reviews$.class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Reviews.class
+binary dependencies:
+4 items
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> /Users/ZihanZhang/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+1 items
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> /Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala
+inheritance external dependencies:
+0 items
+class names:
+32 items
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> Ingest
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> Ingest$$anonfun$apply$1
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> Ingestible
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Format
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Format$
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Movie
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Movie$
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Movie$$anonfun$1
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Movie$$anonfun$1$$anonfun$apply$1
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Movie$$anonfun$1$$anonfun$apply$2
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Movie$$anonfun$2
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Movie$$anonfun$2$$anonfun$apply$3
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Movie$$anonfun$elements$1
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Movie$IngestibleMovie
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Movie$IngestibleMovie$
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Movie$IngestibleMovie$$anonfun$fromString$1
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Movie$IngestibleMovie$class
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Movie$delayedInit$body
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Name
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Name$
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Name$$anonfun$toString$1
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Name$$anonfun$toString$2
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Name$Result$3
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Name$Result$4$
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Principal
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Principal$
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Production
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Production$
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Rating
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Rating$
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Reviews
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Reviews$
+used names:
+222 items
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> <init>
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> A
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> Any
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> AnyRef
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> B
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> CanBuildFrom
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> Coll
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> Function1
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> Ingest
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> Ingestible
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> Int
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> Iterator
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> Nothing
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> Object
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> Predef
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> Seq
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> Source
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> String
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> T
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> That
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> Try
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> X
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> _root_
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> canBuildFrom
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> collection
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> drop
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> e
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> fromString
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> getLines
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> implicitly
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> io
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> iterator
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> map
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> package
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> scala
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> source
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> toSeq
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> util
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> !=
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> &&
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> +
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> +=
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> ::
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> <byname>
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> <init>
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> <repeated>
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> ==
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> >
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> A
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> AbstractFunction1
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Any
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> AnyRef
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> App
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Array
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> ArrayOps
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> B
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Boolean
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> BufferedSource
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> CharSequence
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Codec
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Double
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Exception
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Format
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Function1
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> IndexOutOfBoundsException
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Ingest
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Ingestible
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> IngestibleMovie
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Int
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Iterator
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> List
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> ListBuffer
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> MatchError
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Movie
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Name
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Nil
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> None
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Nothing
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Object
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Option
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Predef
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Principal
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Product
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Production
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Range
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Rating
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Regex
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Result
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Reviews
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> RichInt
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> ScalaRunTime
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Seq
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Serializable
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Some
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Source
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Statics
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> String
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> StringBuffer
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> StringContext
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> StringOps
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> T
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> T0
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> T1
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> T10
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> T11
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> T2
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> T3
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> T4
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> T5
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> T6
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> T7
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> T8
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> T9
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Try
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Tuple11
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Tuple2
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Tuple4
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Tuple7
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> U
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> Unit
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> WithFilter
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> _hashCode
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> _root_
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> _toString
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> actor1
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> actor2
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> actor3
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> age
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> anyHash
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> append
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> apply
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> args
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> asInstanceOf
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> aspectRatio
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> augmentString
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> budget
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> close
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> code
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> collection
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> color
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> contentRating
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> country
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> director
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> doubleHash
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> duration
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> elements
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> eq
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> facebookLikes
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> fallbackSystemCodec
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> finalizeHash
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> first
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> foreach
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> format
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> fromFile
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> genres
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> get
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> gross
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> head
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> imdb
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> imdbScore
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> immutable
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> indices
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> ingester
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> intWrapper
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> io
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> isEmpty
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> isInstanceOf
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> isKiwi
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> java
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> kiwiMovies
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> lang
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> language
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> last
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> length
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> lengthCompare
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> list
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> m
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> map
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> middle
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> mix
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> mutable
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> my
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> name
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> ne
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> numCriticReviews
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> numUsersReview
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> numUsersVoted
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> package
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> params
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> plotKeywords
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> println
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> production
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> r
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> rName
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> rRating
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> refArrayOps
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> reviews
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> runtime
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> s
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> scala
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> source
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> split
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> suffix
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> temp
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> title
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> titleYear
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> toDouble
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> toInt
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> toList
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> toSeq
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> toString
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> totalFacebookLikes
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> typedProductIterator
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> unapplySeq
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> unary_!
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> until
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> util
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> w
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> withFilter
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> ws
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> x
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> ||
+product stamps:
+32 items
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Format$.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Format.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Ingest$$anonfun$apply$1.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Ingest.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Ingestible.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Movie$$anonfun$1$$anonfun$apply$1.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Movie$$anonfun$1$$anonfun$apply$2.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Movie$$anonfun$1.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Movie$$anonfun$2$$anonfun$apply$3.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Movie$$anonfun$2.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Movie$$anonfun$elements$1.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Movie$.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Movie$IngestibleMovie$$anonfun$fromString$1.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Movie$IngestibleMovie$.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Movie$IngestibleMovie$class.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Movie$IngestibleMovie.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Movie$delayedInit$body.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Movie.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Name$$anonfun$toString$1.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Name$$anonfun$toString$2.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Name$.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Name$Result$3.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Name$Result$4$.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Name.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Principal$.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Principal.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Production$.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Production.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Rating$.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Rating.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Reviews$.class -> lastModified(1491240761000)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/target/scala-2.11/classes/Reviews.class -> lastModified(1491240761000)
+source stamps:
+2 items
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> hash(b6ef24dd1d4678ad243ac0a481c40539cf52087a)
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> hash(c41a6ac71b5d16d5ec34e43c546cdc51c9b15624)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1466589303000)
+/Users/ZihanZhang/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/ZihanZhang/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Serializable
+internal apis:
+2 items
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw+l99agAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyopR+XQABm5vdGlmeXNxAH4ADOT5vdt0AApJbmdlc3RpYmxlc3EAfgAM2mkesXQABkluZ2VzdHNxAH4ADLVincx0AAR3YWl0c3EAfgAMcLd8RHQADSRhc0luc3RhbmNlT2ZzcQB+AAyezQdYdAAHY29tcG9zZXNxAH4ADP5nN/J0AApmcm9tU3RyaW5nc3EAfgAMuejKb3QABmVxdWFsc3NxAH4ADCuFNpJ0AAxhc0luc3RhbmNlT2ZzcQB+AAzI8MWfdAAMc3luY2hyb25pemVkc3EAfgAMGdnaH3QADSRpc0luc3RhbmNlT2ZzcQB+AAw9lxxrdAAHYW5kVGhlbnNxAH4ADHnoIBF0AAlub3RpZnlBbGxzcQB+AAzE6bnZdAAMaXNJbnN0YW5jZU9mc3EAfgAM99oiXHQABjxpbml0PnNxAH4ADH4vaIZ0AAVhcHBseXNxAH4ADD5bxIh0AAI9PXNxAH4ADBleCgd0AAVjbG9uZXNxAH4ADMr+1ZJ0AAYkaW5pdCRzcQB+AAxBOBT3dAAIdG9TdHJpbmdzcQB+AAzQRYU9dAACIT1zcQB+AAzyZcgedAAIZ2V0Q2xhc3NzcQB+AAxY3lb4dAACbmVzcQB+AAxKA4I+dAACZXFzcQB+AAyfFCs6dAACIyNzcQB+AAwLkUiSdAAIZmluYWxpemVzcQB+AAxPZF0pdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBNeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ABN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcmdpVdvjcpBrAgAGWwALYW5ub3RhdGlvbnNxAH4AUkwAAmlkcQB+AA1MAApsb3dlckJvdW5kdAAQTHhzYnRpL2FwaS9UeXBlO1sADnR5cGVQYXJhbWV0ZXJzcQB+AE9MAAp1cHBlckJvdW5kcQB+AF9MAAh2YXJpYW5jZXQAFEx4c2J0aS9hcGkvVmFyaWFuY2U7eHB1cQB+AFgAAAAAdAAISW5nZXN0LlRzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwdAAHTm90aGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ac3VxAH4AXAAAAABzcQB+AGR0AANBbnlxAH4AbH5yABJ4c2J0aS5hcGkuVmFyaWFuY2UAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAlJbnZhcmlhbnR+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cQB+AHx0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AB5zY2FsYS5hbm5vdGF0aW9uLnV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
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw5U7IZQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAFzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHB4cYlTdAAPSW5nZXN0aWJsZU1vdmlldXEAfgAJAAAAW3NxAH4AC3J70Fp0AAlQcmluY2lwYWxzcQB+AAsvOTCodAAIZWxlbWVudHNzcQB+AAuwYijwdAASdG90YWxGYWNlYm9va0xpa2Vzc3EAfgALJDxdJnQABm5vdGlmeXNxAH4AC01Pa5F0AAZmb3JtYXRzcQB+AAuYdQBddAAHdW5hcHBseXNxAH4AC75W4R50AAhkdXJhdGlvbnNxAH4AC+tw7Yp0AApwcm9kdWN0aW9uc3EAfgALGMVNO3QABlJhdGluZ3NxAH4AC7FPUfJ0AARuYW1lc3EAfgALyA3K8nQABmFjdG9yMXNxAH4AC9v/GAB0AAZGb3JtYXRzcQB+AAscPm9QdAAEd2FpdHNxAH4AC/BMW410AAROYW1lc3EAfgALxtluIHQADmNvcHkkZGVmYXVsdCQyc3EAfgALQjj1UXQADSRhc0luc3RhbmNlT2ZzcQB+AAvmFlaUdAAOY29weSRkZWZhdWx0JDVzcQB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5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AM94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AmXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgDmc3IAE3hzYnRpLmFwaS5TdHJ1Y3R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A/nVxAH4BAQAAAANzcQB+AQNxAH4BDnNxAH4BA3QAAmlvcQB+AQhzcQB+APdxAH4BFnNxAH4A+3NxAH4A/nVxAH4BAQAAAANzcQB+AQNxAH4BDnNxAH4BA3EAfgEccQB+AQhzcQB+APdxAH4BHnEAfgK/c3EAfgDMcQB+ANl1cQB+ANoAAAAAc3EAfgDcAHQACVByaW5jaXBhbHVxAH4A3gAAAABxAH4B/HVxAH4A5AAAAABzcQB+AOZxAH4A7HNxAH4A5nNxAH4A7nNxAH4A5nVxAH4AygAAAABzcQB+AOZ1cQB+AMoAAAAAc3EAfgDmdXEAfgD1AAAABHNxAH4A93EAfgD6c3EAfgD7c3EAfgD+dXEAfgEBAAAAAnNxAH4BA3EAfgEGcQB+AQhzcQB+APdxAH4A+nNxAH4A+3NxAH4A/nVxAH4BAQAAAANzcQB+AQNxAH4BDnNxAH4BA3QAAmlvcQB+AQhzcQB+APdxAH4BFnNxAH4A+3NxAH4A/nVxAH4BAQAAAANzcQB+AQNxAH4BDnNxAH4BA3EAfgEccQB+AQhzcQB+APdxAH4BHnEAfgLhc3EAfgDMcQB+ANl1cQB+ANoAAAAAc3EAfgDcAHQABlJhdGluZ3VxAH4A3gAAAABxAH4B/HVxAH4A5AAAAABzcQB+AOZxAH4A7HNxAH4A5nNxAH4A7nNxAH4A5nVxAH4AygAAAABzcQB+AOZ1cQB+AMoAAAAAc3EAfgDmdXEAfgD1AAAABHNxAH4A93EAfgD6c3EAfgD7c3EAfgD+dXEAfgEBAAAAAnNxAH4BA3EAfgEGcQB+AQhzcQB+APdxAH4A+nNxAH4A+3NxAH4A/nVxAH4BAQAAAANzcQB+AQNxAH4BDnNxAH4BA3QAAmlvcQB+AQhzcQB+APdxAH4BFnNxAH4A+3NxAH4A/nVxAH4BAQAAAANzcQB+AQNxAH4BDnNxAH4BA3EAfgEccQB+AQhzcQB+APdxAH4BHnEAfgMDdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVs03/zzdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAUi9Vc2Vycy9aaWhhblpoYW5nL0RvY3VtZW50cy9pbnRlbGxpandvcmtzcGFjZS9Jbmdlc3REYXRhL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTEGmrHG10W1ew05DxUbNxRybFWJA==
+external apis:
+0 items
+source infos:
+2 items
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Ingest.scala -> 
+AAAAAAAAAAA=
+/Users/ZihanZhang/Documents/intellijworkspace/IngestData/src/main/scala/Movie.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWzTf/PN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9Vc2Vycy9aaWhhblpoYW5nL0RvY3VtZW50cy9pbnRlbGxpandvcmtzcGFjZS9Jbmdlc3REYXRhL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
